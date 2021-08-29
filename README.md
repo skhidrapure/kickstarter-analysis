@@ -17,16 +17,18 @@ Similar in the next of the problem consists of analysisng the data given for Out
 
 
 ### Analysis of Outcomes Based on Launch Date
-When we look at the graph for outcome vs Launch Date that the success rate percentage is higher in the month of may when compared to the remaining months in the year. And the highest failure rate is in the month of october.
+When we look at the graph for outcome vs Launch Date that the success rate percentage is higher in the month of may when compared to the remaining months in the year. And the highest failure rate is in the month of october. Here is the graph fpr Outcomes based on Launch Date 
+![](resources/OutcomesVsLaunchDate)
 
 
 ### Analysis of Outcomes Based on Goals
 Looking at the graph plotted against the Outcomes vs Goals it shows that it is more likely to have a better success rate for the goal below 5000. And the creteria for success above 45000 is 13%. However the success rate is inconsistent for the goal range 35000 to 39999. Thus we do not recommend a this goal range. 
+![](resources/OutcomesVsGoals.png)
 
 ### Challenges and Difficulties Encountered
 The challenge that I faced was with dataset not being in an analysis friendly format.
-The challenges faced was converting the launch date which was in epoch time to excel date format. Here is a screenshot showing the conversion of the epoch time to excel date format 00/00/0000 /Users/sbk/Desktop/Screen Shot 2021-08-29 at 12.45.31 PM (3).png 
-    
+The challenges faced was converting the launch date which was in epoch time to excel date format. Here is a screenshot showing the conversion of the epoch time to excel date format 00/00/0000. Here is the bar garph which represents Goals Vs Total projects
+![](resources/BargraphGoalsVsTotalProjects.png)
 
 ## Results
 
