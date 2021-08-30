@@ -2,8 +2,8 @@
 # Kickstarter-Challenge
 
 ## Overview of Project
-
-The aim of the project is to perform data analysis using the dataset from excel. The client is looking into insights on how different campaigns fared in relation to their launch dates and their funding goals.
+The client Louise’s has a play Fever which came close to its fundraising goal in a short amount of time. Now, Louise is looking into insights on how different campaigns fared in relation to their launch dates and their funding goals.
+The aim of the project is to perform data analysis using the dataset given in the excel. 
 
 ### Purpose
 The purpose of the project is to provide the client with insight into their data. Specifically, campaigns launched in which month yield the most success & what should be the optimal goal for their fund raising. 
@@ -33,7 +33,7 @@ Here is the graph of outcomes based on Goals
 ![](resources/OutcomesVsGoals.png)
 
 Looking at the graph plotted against the Outcomes vs Goals it shows that it is more likely to have a better success rate for campaigns with goals below $5000.
-Looking at the graph the success % for campaigns with goal range of $45000 - $49999 is 0% and the success rate for campaigns with goal $50000 is 13%, these look like inconsistencies which might be result of insufficient data of very little data ex: For the goal rang $45000 to $49999 we have only one campaign when compared to 169 campaigns with goal range $5000-$9999, more on this in the limitations section. 
+Looking at the graph the success % for campaigns with goal range of $45000 - $49999 is 0% and the success rate for campaigns with goal $50000 is 13%, these look like inconsistencies which might be result of insufficient data or very little data ex: For the goal range $45000 to $49999 we have only one campaign when compared to 169 campaigns with goal range $5000-$9999, more on this in the limitations section. 
 
 
 ### Challenges and Difficulties Encountered
