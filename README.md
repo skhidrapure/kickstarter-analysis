@@ -2,7 +2,7 @@
 # Kickstarter-Challenge
 
 ## Overview of Project
-The client Louise’s has a play Fever which came close to its fundraising goal in a short amount of time. Now, Louise is looking into insights on how different campaigns fared in relation to their launch dates and their funding goals.
+The client Louise has a play Fever which came close to its fundraising goal in a short amount of time. Now, Louise is looking into insights on how different campaigns fared in relation to their launch dates and their funding goals.
 The aim of the project is to perform data analysis using the dataset given in the excel. 
 
 ### Purpose
